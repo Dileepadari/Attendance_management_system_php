@@ -2,6 +2,7 @@
 
 This is a project created for monitoring student attendance for RGUKT using php and mysql service.
 If you wish to use this project you should change the links in the database and should provide the details of the server in the place of database details in the files.
+The sql file is provided for an idea of the database format.
 The site is created by modifying the html version...
 
 A sample of the project is the following:
